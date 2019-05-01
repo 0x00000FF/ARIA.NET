@@ -1,0 +1,7 @@
+src/.idea
+
+src/System.Security.Cryptography.KISA/bin
+src/System.Security.Cryptography.KISA/obj
+
+src/System.Security.Cryptography.KISA.Test/bin
+src/System.Security.Cryptography.KISA.Test/obj
